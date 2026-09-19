@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Einkaufsliste</string>
+    <string name="title_main">Meine Einkaufsliste</string>
+    <string name="amount_format">%1$.2f CHF</string>
+    <string name="hint_article">Artikel</string>
+    <string name="hint_shop">Laden</string>
+    <string name="hint_quantity">Menge</string>
+    <string name="hint_price">Preis pro Stück</string>
+    <string name="btn_save">Speichern</string>
+    <string name="error_min_length">Mindestens 4 Zeichen</string>
+</resources>
